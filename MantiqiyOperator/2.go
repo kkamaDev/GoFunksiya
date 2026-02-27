@@ -1,4 +1,4 @@
-// Kamro0n
+// Kamron
 
 // sharti - Berilgan a soni juftligini aniqlovchi dastur tuzing
 
