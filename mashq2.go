@@ -12,7 +12,7 @@ func main() {
 	}
 
 	f := FuncPractis(natija, natija2)
-	fmt.Println(f(0, 0))
+	fmt.Println("natija >> ", f(0, 0))
 
 }
 
